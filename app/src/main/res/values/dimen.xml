@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- height of each list item -->
+    <dimen name="list_item_height">96dp</dimen>
+    <dimen name="text_view_height">44dp</dimen>
+    <dimen name="image_size">88dp</dimen>
+    <dimen name="layout_margin">8dp</dimen>
+
+</resources>
